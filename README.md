@@ -1,2 +1,2 @@
 # ROMS_ppTools
-post processing Matlab scripts for ROMS
+Matlab scripts for post-processing ROMS output
